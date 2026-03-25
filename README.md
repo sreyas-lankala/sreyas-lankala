@@ -15,7 +15,7 @@ I'm a **Data Quality & Governance Engineer** with 5+ years of professional exper
 - 🏢 Previously: **Amazon** (Data Operations) · **Hexaware Technologies** (Data Engineer – DQ & Governance) · **Mphasis** (Data Specialist)
 - 🎓 **MS Computer Science** · Concordia University of Wisconsin · May 2026
 - 📍 Madison, WI · Open to relocation across the USA
-- 🛂 **Authorized to work in the USA on F-1 OPT starting May 27, 2026** (STEM OPT eligible – 3-year authorization)
+- 🛂 **Authorized to work in the USA on F-1 OPT starting June 2026** (STEM OPT eligible – 3-year authorization)
 - 💡 Obsessed with one question: *How do you make data trustworthy at scale?*
 
 ---

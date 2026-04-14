@@ -68,7 +68,7 @@ Enterprise-grade data governance platform processing **2M+ synthetic clinical re
 
 Full-stack enterprise data platform with **medallion architecture** (RAW → STAGING → MART), metadata-driven quality rule engine, and operational observability layer.
 
-**By the numbers:** 40+ SQL scripts · 25+ dbt models · 65+ data quality rules · 6 governance schemas · CI/CD via GitHub Actions
+**By the numbers:** 40+ SQL scripts · 25+ dbt models · 65+ data quality rules · 6 governance schemas · CI/CD via GitHub  Actions
 
 ---
 
